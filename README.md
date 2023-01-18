@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dewal1004 (Abiola)
 - 👀 I’m interested in Business Central/AL
 - 🌱 I’m currently learning C#  
-- 💞️ I’m looking to collaborate on Business Central
+- 💞️ I’m looking to collaborate on Business Central, C#, JavaScript
 - 📫 How to reach me dewal!!!@hotmail.com
 
 <!---
